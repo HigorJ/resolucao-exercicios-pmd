@@ -1,0 +1,16 @@
+{
+  "name": "atividade-lista",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercicio01.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "follow-redirects": "^1.14.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
